@@ -1,5 +1,5 @@
 - [X] Factorial 
-- [ ] Fibonacci Series
+- [X] Fibonacci Series
 - [ ] Permutations
 - [ ] Search
     - [ ] LInear Search

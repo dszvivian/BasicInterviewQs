@@ -1,0 +1,13 @@
+- [ ] Factorial 
+- [ ] Fibonacci Series
+- [ ] Permutations
+- [ ] Search
+    - [ ] LInear Search
+    - [ ] Binary Search
+- [ ] Sort 
+    - [ ] Bubble 
+    - [ ] Insertion 
+    - [ ] Merge 
+- [ ] String Related Q's 
+- [ ] Freq of Nos in an Array(find Similiar Easy array Q's)
+

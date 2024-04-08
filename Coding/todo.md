@@ -1,4 +1,4 @@
-- [ ] Factorial 
+- [X] Factorial 
 - [ ] Fibonacci Series
 - [ ] Permutations
 - [ ] Search

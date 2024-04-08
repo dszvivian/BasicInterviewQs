@@ -1,0 +1,6 @@
+### Coding:
+
+- factorial 
+- fibonacci Numbers 
+
+
